@@ -8,72 +8,72 @@
 
 ---
 
-## 👤 Sobre mí
+## 👤 About Me
 
-Ejecutivo senior con más de 20 años de trayectoria en banca digital y fintech, combinando la disciplina corporativa con la ejecución ágil de startups. He liderado transformaciones digitales, creado nuevos modelos de negocio, y construido plataformas escalables en contextos complejos y regulados.
+Senior executive with 20+ years of experience in digital banking and fintech, combining corporate discipline with startup agility. Proven track record in driving digital transformation, launching scalable platforms, and building new business models in complex and regulated environments.
 
-Mi enfoque está centrado en la alineación estratégica entre producto, tecnología y negocio para lograr impacto medible. Cuento con experiencia transversal en pagos, embedded finance, scoring alternativo, billeteras digitales, y orquestación de canales.
-
----
-
-## 🧩 Habilidades clave
-
-- Estrategia de Producto y Go-to-Market
-- Digital Banking & Embedded Finance
-- Fintech B2B y B2C
-- Transformación Ágil & OKRs
-- APIs, Open Banking y Plataformas
-- Equipos cross-funcionales y escalamiento
-- Cumplimiento regulatorio en LatAm
-- Onboarding digital y CX con IA
+I specialize in aligning product, technology, and business strategy to deliver measurable impact. My background spans B2B and B2C fintech, digital wallets, embedded finance, alternative credit scoring, and open banking.
 
 ---
 
-## 🏢 Experiencia destacada
+## 🧩 Core Skills
 
-### Chief Product Officer | ERON International *(2024 – 2025)*
-- Lanzamiento de wallet cripto en menos de 30 días.
-- Implementación de agentes virtuales NLP con ahorro del 90% en costos.
-- Expansión geográfica en Asia y África mediante alianzas de pago.
-
-### Chief Product Officer | KLYM *(2020 – 2024)*
-- Escalamiento de originaciones a USD 200M/mes en 4 países.
-- Diseño de scoring con ML y más de 300 funcionalidades core.
-- Adopción como solución white-label por grandes corporaciones.
-
-### VP of Products | IUVITY (ex TODO1) *(2017 – 2020)*
-- Creación de plataforma API (250+ servicios).
-- Reconocimiento de Gartner como referente en banca digital.
-- Integración de IoT y lanzamiento de BI as a Service.
-
-### Strategic Advisor | UALÁ *(2016 – 2017)*
-- Definición del modelo de negocio, roadmap y UX.
-- Relacionamiento con entes reguladores y marcas de tarjetas.
-
-### Head of Digital Banking LATAM | CITIBANK *(2013 – 2017)*
-- Dirección de iniciativas digitales en 14 países con un presupuesto de USD 60M.
-- Transformación digital con 250+ iniciativas implementadas.
-- Aumento de adopción digital de 1% a 60%, reducción del CAC en 90%.
+- Product Strategy & Go-to-Market Execution  
+- Digital Banking & Embedded Finance  
+- Agile Transformation & OKRs  
+- B2B & B2C Fintech Platforms  
+- API Ecosystems & Open Banking  
+- Cross-functional Leadership & Scaling  
+- Regulatory Compliance in LatAm  
+- AI-powered Onboarding & CX  
 
 ---
 
-## 🎓 Formación
+## 🏢 Key Experience
 
-- **Information Systems** – Universidad de Buenos Aires  
+### Chief Product Officer | ERON International *(2024 – 2025)*  
+- Launched crypto wallet MVP in under 30 days.  
+- Introduced NLP virtual agents, cutting costs by 90%.  
+- Led payment partnership expansion into Asia and Africa.
+
+### Chief Product Officer | KLYM *(2020 – 2024)*  
+- Scaled originations from USD 10M to 200M/month across 4 countries.  
+- Designed ML-based credit scoring and 300+ platform features.  
+- Enabled white-label adoption by major corporations.
+
+### VP of Products | IUVITY (formerly TODO1) *(2017 – 2020)*  
+- Built 250+ API-based Open Service Platform.  
+- Recognized by Gartner as a digital banking transformation leader.  
+- Launched BIaaS and integrated digital payments with IoT providers.
+
+### Strategic Advisor | UALÁ *(2016 – 2017)*  
+- Defined business model, roadmap, and UX foundations.  
+- Acted as liaison with regulators, card brands, and vendors.
+
+### Head of Digital Banking LATAM | CITIBANK *(2013 – 2017)*  
+- Led $60M budget across 14 countries with 6M+ users.  
+- Deployed 250+ initiatives; raised digital adoption from 1% to 60%.  
+- Reduced CAC by 90% via online onboarding and agile execution.
+
+---
+
+## 🎓 Education
+
+- **Information Systems** – University of Buenos Aires  
 - **Marketing** – Universidad de Palermo  
-- **Strategic Leadership Program** – Universidad de los Andes
+- **Strategic Management Program** – Universidad de los Andes  
 
 ---
 
-## 🌐 Idiomas
+## 🌐 Languages
 
-- Español (Nativo)  
-- Inglés (C1 – Avanzado)
+- Spanish: Native  
+- English: Advanced (C1)
 
 ---
 
-## 🚀 Objetivo
+## 🚀 Objective
 
-Continuar liderando la evolución de productos digitales en fintechs o instituciones financieras globales que busquen escalar, innovar y transformar la experiencia financiera de millones de personas.
+To continue leading the evolution of digital financial products at global fintechs or financial institutions, driving scalable innovation, growth, and transformation of the customer experience.
 
 ---
